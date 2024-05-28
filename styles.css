@@ -13,6 +13,7 @@ th, td {
     border: 1px solid orange;
     text-align: center;
     padding: 3px 5px;
+	row-span:4;
 }
 
 th {
