@@ -6,6 +6,7 @@ body {
 table {
     width: 100%;
     border-collapse: collapse;
+	border-width:0px 0px 1px 1px;
 }
 
 th, td {
@@ -17,6 +18,9 @@ th, td {
 th {
     background-color: #888888;
     color: white;
+}
+tr{
+	row-span:4;
 }
 
 .sub-total-row .sub-total-text {
